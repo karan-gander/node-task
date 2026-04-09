@@ -116,24 +116,9 @@ npm run dev
 * Filtering tasks by category
 * Joi-based request validation
 
----
 
-## 📌 Future Improvements
 
-* Pagination
-* Task status & search filters
-* Frontend integration (React)
 
----
-
-## 👨‍💻 Author
-
-**Karan Gander**
-MERN Stack Developer
-
----
-
-## ⭐ Note for Interviewer
 
 This project demonstrates:
 
